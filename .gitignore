@@ -1,0 +1,5 @@
+# Public repo: only the generated sign-in pages may be committed.
+*
+!.gitignore
+!index.html
+!diagnose.html
